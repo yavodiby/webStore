@@ -1,0 +1,68 @@
+[
+    {
+       "id" : 1,
+        "name" : "Galaxy Phone",
+        "desc" : "Nullam ex torto Galaxy Phone, efficitur commodo ullamcorper ac, accumsan eget odio. Nullam ex tortor,  malesuada eu ultrices sit amet, ullamcorper pretium dui.",
+        "type" : "mobile",
+        "price" : 450,
+        "images" : [
+            {
+                "name": "phone1.jpg" 
+            },
+            {
+                "name": "phone2.jpg" 
+            },
+            {
+                "name": "phone3.jpg" 
+            },
+            {
+                "name": "phone4.jpg" 
+            } 
+                   ] 
+            
+    } ,
+    {
+       "id" : 2,
+        "name" : "Mac Laptop",
+        "desc" : "commodo ullamcorper Mac Laptop, efficitur commodo ullamcorper ac, accumsan eget odio. Nullam ex tortor,  malesuada eu ultrices sit amet, ullamcorper pretium dui.",
+        "type" : "mobile",
+        "price" : 850,
+        "images" : [
+             {
+                 "name": "laptop1.jpg"
+             },
+             {
+                 "name": "laptop2.jpg"
+             },
+             {
+                 "name": "laptop3.jpg"
+             },
+             {
+                 "name": "laptop4.jpg"
+             }
+                   ]  
+            
+    } ,
+    {
+       "id" : 3,
+        "name" : "TV",
+        "desc" : "Efficitur TV, efficitur commodo ullamcorper ac, accumsan eget odio. Nullam ex tortor,  malesuada eu ultrices sit amet, ullamcorper pretium dui.",
+        "type" : "mobile",
+        "price" : 650,
+        "images" : [
+            {
+                "name": "tv1.jpg"
+            },
+            {
+                "name": "tv2.jpg"
+            },
+            {
+                "name": "tv3.jpg"
+            },
+            {
+                "name": "tv4.jpg"
+            }
+                   ]           
+    }       
+    
+]
