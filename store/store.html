@@ -2,7 +2,7 @@
     <div ng-repeat="store in stores">
     <div class="col-md-4">
         <h3>{{store.name}}</h3>
-        <img ng-src="/img/{{store.images[0].name}}" >
+        <img ng-src="img/{{store.images[0].name}}" >
         <h4>{{store.price | currency}}</h4>
         <a class="btn btn-primary btn-block" href="#/store/{{store.id }}">Details</a>
     </div>

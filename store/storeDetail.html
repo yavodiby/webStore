@@ -3,11 +3,11 @@
     <br>
     <div class="col-md-4">
         
-        <img class="fullImg" src="/img/{{mainImage}}"> 
+        <img class="fullImg" src="img/{{mainImage}}"> 
         <div class="row">
           <div ng-repeat="image in store.images | limitTo:3"> 
             <div class="col-md-3">
-                <img class="fullImg" ng-src="/img/{{image.name}}" ng-click="setImage(image)">
+                <img class="fullImg" ng-src="img/{{image.name}}" ng-click="setImage(image)">
               
               </div>
             
